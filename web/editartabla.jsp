@@ -13,7 +13,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Editar</title>
     </head>
-    <body>
+    <body background="imagenes/fondo-madera.jpg">
         <h1>nueva edicion </h1>
         <div style="width:900px; margin-left: auto;margin-right: auto">
             <c:forEach items="${getNewById}" var="p">

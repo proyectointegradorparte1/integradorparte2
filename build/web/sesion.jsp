@@ -15,7 +15,7 @@
         <title>INICIO DE SESION</title>
         <script src="validacion.js" ></script>
     </head>
-    <body background="imagenes/fondo.jpg"/>
+    <body background="imagenes/fondo-madera.jpg"/>
     <h1>INICIO DE SESION</h1><br>
         <div style="width:900px; margin-left: auto;margin-right: auto">
           

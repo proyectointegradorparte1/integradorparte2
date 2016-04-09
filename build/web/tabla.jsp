@@ -23,7 +23,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>tabla</title>
     </head>
-    <body background="imagenes/fondo.jpg"/>
+    <body background="imagenes/fondo-madera.jpg"/>
        <div style="width:1200px; margin-left: auto;margin-right: auto">
              <h1>USUARIO: <% out.println(usuario); %>......Acceso correcto</h1>
            
